@@ -2,5 +2,5 @@
  segundo repositório versionado do curso de git e github
 
  Repósitorio criado durante uma aula ao vivo
- 
-Essa linha eu adicioneu diretamente no site!
+
+Essa linha eu adicionei  diretamente no site!
